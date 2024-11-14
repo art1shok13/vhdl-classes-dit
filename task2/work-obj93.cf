@@ -1,0 +1,7 @@
+v 4
+file . "belttb.vhdl" "3c52b9edf66a0e5e45566309a13d7e32c1bcdb05" "20241110183547.502":
+  entity belttb at 1( 0) + 0 on 47;
+  architecture behavior of belttb at 7( 80) + 0 on 48;
+file . "belt.vhdl" "5bb2c10cee2b194513cacb34a98b647676a8914b" "20241110183547.486":
+  entity belt_artyshevskyi at 1( 0) + 0 on 45;
+  architecture behavioral of belt_artyshevskyi at 15( 443) + 4 on 46;

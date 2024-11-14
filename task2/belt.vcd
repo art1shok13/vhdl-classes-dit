@@ -1,0 +1,120 @@
+$date
+  Sun Nov 10 19:35:47 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module belttb $end
+$var reg 1 ! s1 $end
+$var reg 1 " s2 $end
+$var reg 1 # s3 $end
+$var reg 1 $ s4 $end
+$var reg 1 % sw $end
+$var reg 1 & r $end
+$var reg 1 ' t $end
+$scope module uut $end
+$var reg 1 ( s1 $end
+$var reg 1 ) s2 $end
+$var reg 1 * s3 $end
+$var reg 1 + s4 $end
+$var reg 1 , sw $end
+$var reg 1 - r $end
+$var reg 1 . t $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+Z&
+Z'
+0(
+0)
+0*
+0+
+0,
+Z-
+Z.
+#100000000
+1!
+1&
+1'
+1(
+1-
+1.
+#110000000
+0!
+1"
+0'
+0(
+1)
+0.
+#120000000
+0"
+1#
+0&
+0)
+1*
+0-
+#130000000
+0#
+1$
+1'
+0*
+1+
+1.
+#140000000
+1!
+0$
+1%
+Z&
+Z'
+1(
+0+
+1,
+Z-
+Z.
+#150000000
+0!
+1"
+0(
+1)
+#160000000
+0"
+1#
+0)
+1*
+#170000000
+0#
+1$
+0*
+1+
+#180000000
+0$
+0%
+0+
+0,
+#220000000
+1"
+1#
+1$
+1)
+1*
+1+
+#230000000
+0"
+0#
+0$
+0)
+0*
+0+

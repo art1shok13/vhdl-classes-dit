@@ -1,0 +1,7 @@
+v 4
+file . "gray2bcdtb.vhdl" "3092e50cc30179803c301339b149b691843da74b" "20241114141335.439":
+  entity gray2bcdtb at 1( 0) + 0 on 29;
+  architecture behavior of gray2bcdtb at 7( 88) + 0 on 30;
+file . "gray2bcd.vhdl" "a4f9fab9b2527a3c08660ce0d471411a31434fdd" "20241110192053.054":
+  entity gray2bcd_artyshevskyi at 1( 0) + 0 on 23;
+  architecture behavioral of gray2bcd_artyshevskyi at 12( 295) + 4 on 24;
